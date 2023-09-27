@@ -2,7 +2,7 @@ import styled, { css } from 'styled-components'
 
 export const Container = styled.header`
   ${({ theme }) => css`
-    background: #ede72d;
+    background: #6c6b51;
     color: white;
     font-size: 1.5rem;
     padding: 2rem;

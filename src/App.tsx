@@ -1,9 +1,13 @@
 import react from 'react'
 
+import RoutesIndex from './components/Routes'
+import News from './models/news'
+import Carrousel from './pages/Homepage'
+
 function App() {
   return (
-    <div className="App">
-      <h1>Inicio</h1>
+    <div>
+      <RoutesIndex />
     </div>
   )
 }
